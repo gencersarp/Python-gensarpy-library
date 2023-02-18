@@ -1,0 +1,11 @@
+Change Log
+==========
+
+0.0.1 (16.02.2023)
+------------------
+- First Release
+
+0.1.0 (18.02.2023)
+------------------
+- Big fixes and code improvements
+- Added isconvergent and isdivergent functions
